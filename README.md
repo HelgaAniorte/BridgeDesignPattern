@@ -1,4 +1,4 @@
-# BridgeDesignPattern
+# Bridge Design Pattern
 This is a set of classes implementing the Bridge Pattern in Java.
 
 This exemple of the Bridge Pattern creates
